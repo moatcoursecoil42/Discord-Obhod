@@ -1,0 +1,20 @@
+# Discord-Obhod
+
+> Обновлённая версия с улучшенной поддержкой Discord. Быстрее, надежнее, стабильнее
+
+Сборка Discord-Obhod заточена под Discord: connecting, голосовой чат, демонстрация экрана. VPN не нужен, IP не меняется, скорость канала остаётся вашей.
+
+## Страницы
+- Сайт: https://moatcoursecoil42.github.io/Discord-Obhod/
+- Релиз: https://github.com/moatcoursecoil42/Discord-Obhod/releases/latest
+- Исходный код: https://github.com/moatcoursecoil42/Discord-Obhod
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Discord
+- Discord не подключается
+- Discord connecting исправить
+- голосовой чат Discord не работает
+- zapret Discord
+
+Windows 10/11, без VPN, бесплатно.
